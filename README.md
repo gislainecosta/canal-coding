@@ -2,5 +2,5 @@
 <br>
 
 <p align="center">
-    <img align='center' height='400' src='https://docs.google.com/uc?id=1yk1yyeX1tup02NwzPx-ezNkaFlxFLRck'>
+    <img align='center' height='400' src='https://docs.google.com/uc?id=1tj9_pS3rh71PpaMxtoBpNd4gXFEVdsH0'>
 </p>
